@@ -44,7 +44,7 @@ The game resets to level 1 upon restart.
 ---
 
 ## 📸 Screenshots
-![Gameplay Screenshot](Screenshot.png)
+![Gameplay Screenshot](https://github.com/YoussefSahraoui/Alien-Invasion/blob/main/images/Screenshots/Screenshot2.png)
 
 ---
 
